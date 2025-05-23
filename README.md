@@ -14,6 +14,7 @@ Script en Bash que realiza **fuzzing de directorios web** utilizando un dicciona
    - ✅ `200 OK` → accesible
    - 🔁 `301`, `302` → redirección
    - ⛔ `403 Forbidden` → acceso denegado (pero existe)
+6. Guardado de resultados válidos en un **archivo de salida**.
 
 ---
 
